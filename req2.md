@@ -1,0 +1,1 @@
+Toi thay cach ban (Kiro) xu ly yeu cau rat hay (thu thap yeu cau - phan tich yeu cau va phan ra thanh cac task cai dat...) Hay cho toi mot ban mo ta chi tiet cach lam viec cua ban, va mapping no voi quy trinh san xuat phan mem thong thuong, de toi hieu hon ve quy trinh phan mem va cong viec tai lieu hoa (documenting)
